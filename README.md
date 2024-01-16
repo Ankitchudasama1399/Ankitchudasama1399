@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Chudasama Ankit Chudasama</h1>
+<h1 align="center">Hi 👋, I'm Ankit Chudasama </h1>
 <h3 align="center">A passionate frontend developer with a love for Crafting Beautiful and Responsive User-Friendly Web Experiences.😊✨</h3>
 
 🚀<h2>Skills</h2>
